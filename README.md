@@ -16,5 +16,4 @@ This project is a Billing System developed using ADO.NET technology. It was deve
 - Crystal Report
 - SQL
 
-**Screenshots**
 
